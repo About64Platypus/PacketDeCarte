@@ -1,0 +1,6 @@
+c:\users\olivier\documents\visual studio 2015\Projects\PacketDeCarte\PacketDeCarte\bin\Debug\PacketDeCarte.exe.config
+c:\users\olivier\documents\visual studio 2015\Projects\PacketDeCarte\PacketDeCarte\bin\Debug\PacketDeCarte.exe
+c:\users\olivier\documents\visual studio 2015\Projects\PacketDeCarte\PacketDeCarte\bin\Debug\PacketDeCarte.pdb
+c:\users\olivier\documents\visual studio 2015\Projects\PacketDeCarte\PacketDeCarte\obj\Debug\PacketDeCarte.csprojResolveAssemblyReference.cache
+c:\users\olivier\documents\visual studio 2015\Projects\PacketDeCarte\PacketDeCarte\obj\Debug\PacketDeCarte.exe
+c:\users\olivier\documents\visual studio 2015\Projects\PacketDeCarte\PacketDeCarte\obj\Debug\PacketDeCarte.pdb
